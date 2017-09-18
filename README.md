@@ -1,0 +1,1 @@
+# json-local-session-storage
